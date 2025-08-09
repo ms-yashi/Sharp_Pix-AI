@@ -1,12 +1,91 @@
-# React + Vite
+# Sharp_pix-AI 🖼️✨
+**AI-Powered Image Enhancer** – Enhance and upscale your images using advanced AI models, built with React and API integration.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Features
+- **Image Upload**: Easily upload images from your device.
+- **AI Enhancement**: Improve image clarity, sharpness, and resolution using AI.
+- **Real-time Preview**: See before-and-after results instantly.
+- **Responsive UI**: Works smoothly on desktop and mobile.
+- **Fast Processing**: Optimized API calls for quick results.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Frontend**: React.js
+- **Styling**: CSS / Tailwind (if used)
+- **Backend API**: AI Image Enhancement API (e.g., Replicate, DeepAI, etc.)
+- **Version Control**: Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 📂 Project Structure
+
+reactai-project/
+│── public/ # Static files
+
+│── src/
+
+│ ├── components/ # Reusable UI components
+
+│ ├── pages/ # Main app pages
+
+│ ├── App.js # Root component
+
+│ └── index.js # Entry point
+
+│── package.json # Dependencies & scripts
+
+│── README.md # Project documentation
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 📸 Usage
+
+1. Upload an image.
+2. Click Enhance.
+3. Wait for the AI to process the image.
+4. Download your enhanced image.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# Before Enhancement
+
+<img width="1216" height="836" alt="Screenshot 2025-08-09 072649" src="https://github.com/user-attachments/assets/056d23c4-07ee-4166-acd0-4a4a289ab799" />
+
+# After Enhancement
+
+<img width="1030" height="740" alt="Screenshot 2025-08-09 073018" src="https://github.com/user-attachments/assets/6bea0df4-27d8-49c8-990e-266336261d24" />
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 📌 Future Enhancements
+
+> Batch image processing.
+> Multiple AI enhancement models.
+> Drag & drop upload support.
+> Dark mode toggle.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 🤝 Contributing
+
+1. Fork the repository.
+2. Create a feature branch:
+   > git checkout -b feature-name
+3. Commit changes and push.
+4. Submit a pull request.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 📜 License
+
+This project is licensed under the MIT License – you’re free to use and modify it.
+
+## 💡 Acknowledgements
+
+> React
+> [AI Enhancement API Provider]
+> Tailwind CSS 
+
+
